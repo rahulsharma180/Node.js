@@ -67,7 +67,9 @@ const server = http.createServer((request, response) =>{
 
 })
 
-server.listen(2024, () =>{
+server.listen(2024)
 
-    console.log('server Working')
-});
+// server.listen(2024, () =>{
+
+//     console.log('server Working')
+// });
