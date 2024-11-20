@@ -21,7 +21,7 @@ const server = http.createServer((request, response) =>{
     var obj = {
 
         status : true,
-        message : 'View Cataegory Succesfully Found !!',
+        message : 'View  Cataegory Succesfully Found !!',
         data : "" 
     }
 
